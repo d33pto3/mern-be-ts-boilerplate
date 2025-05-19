@@ -1,0 +1,24 @@
+{
+  "name": "create-men-app",
+  "version": "1.0.0",
+  "description": "Scaffold a TypeScript-based MongoDB + Express + Node backend",
+  "main": "bin/create-men-app.js",
+  "bin": {
+    "create-men-app": "./bin/create-men-app.js"
+  },
+  "files": [
+    "bin",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d33pto3/mern-be-ts-boilerplate.git"
+  },
+  "keywords": ["mern", "mongodb", "typescript", "express", "node", "cli", "boilerplate", "generator"],
+  "author": "Rakin Farhan Dipto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d33pto3/mern-be-ts-boilerplate/issues"
+  },
+  "homepage": "https://github.com/d33pto3/mern-be-ts-boilerplate#readme"
+}
